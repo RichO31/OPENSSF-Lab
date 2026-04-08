@@ -8,6 +8,8 @@ This repository contains my OpenSSF Scorecard lab project for Secure Software En
 
  OpenSSF Badges:
 IN WORD
+<img width="647" height="297" alt="image" src="https://github.com/user-attachments/assets/14360e7d-d850-48e5-8f7e-3d09099f78fd" />
+
 
  Project Purpose:
 The purpose of this repository is to complete the OpenSSF Scorecard lab assignment. This project shows course completion, repository badge integration, and security improvements based on Scorecard recommendations.
