@@ -8,7 +8,11 @@ GitHub Repository URL: https://github.com/RichO31/OPENSSF-Lab
 
 OpenSSF Badges:
 IN WORD
+<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/f60dd6da-7420-4bcd-91e9-d4ef50b89331" />
+
 <img width="647" height="297" alt="image" src="https://github.com/user-attachments/assets/7e95bbb5-d33d-4112-9c24-b2fdc7e32591" />
+
+<img width="511" height="206" alt="image" src="https://github.com/user-attachments/assets/121741c1-5e76-44d4-b42d-837f13851aa2" />
 
 
 Project Goal: 
