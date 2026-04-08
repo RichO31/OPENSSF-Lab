@@ -6,10 +6,10 @@ This repository contains my OpenSSF Scorecard lab project for Secure Software En
 - Repository Name: OPENSSF-Lab
 - GitHub Repository URL: https://github.com/RichO31/OPENSSF-Lab
 
- OpenSSF Badges
+ OpenSSF Badges:
 IN WORD
 
- Project Purpose
+ Project Purpose:
 The purpose of this repository is to complete the OpenSSF Scorecard lab assignment. This project shows course completion, repository badge integration, and security improvements based on Scorecard recommendations.
 
  Security Improvements
